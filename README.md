@@ -4,4 +4,5 @@
 
 ## Bibliography.
 
-* [On the Algebraic K-theory of Monoids - Chenghao Chu, Jack Morava](https://arxiv.org/abs/1009.3235)
+* [Sheaves and K-Theory of F1-Schemes](https://arxiv.org/abs/1010.2896)
+
