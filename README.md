@@ -1,6 +1,6 @@
-# Algebraic Geometry of Monoids.
+# Algebraic Geometry of Monoids
 
-## The algebraic geometry of monoids.
+## The algebraic geometry of monoids
 
 ## 1 Introduction
 
@@ -20,7 +20,7 @@
 
 ## 9 F1-schemes and sheaves
 
-## Bibliography.
+## Bibliography
 
 * [Chenghao Chu, Oliver Lorscheid, Rekha Santhanam - Sheaves and K-Theory of F1-Schemes](https://arxiv.org/abs/1010.2896)
 
