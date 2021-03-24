@@ -10,7 +10,7 @@
 
 ### 3 Commutative algebra and classic algebraic geometry
 
-### 4 Tropical geomtry
+### 4 Tropical geometry
 
 ### 5 Toric varieties
 
