@@ -34,3 +34,4 @@
 
 * [Jeffrey Giansiracusa, Noah Giansiracusa - Equations of tropical varieties](https://arxiv.org/abs/1308.0042)
 
+* [Oliver Lorscheid - F1 for everyone](https://arxiv.org/abs/1801.05337)
