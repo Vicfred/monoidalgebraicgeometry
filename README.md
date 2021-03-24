@@ -2,21 +2,25 @@
 
 ## The algebraic geometry of monoids
 
-## 1 Introduction
+## Part I History and preliminaries
 
-## 2 Category theory
+### 1 Introduction
 
-## 3 Commutative algebra and classic algebraic geometry
+### 2 Category theory
 
-## 4 Tropical geomtry
+### 3 Commutative algebra and classic algebraic geometry
 
-## 5 Toric varieties
+### 4 Tropical geomtry
 
-## 6 Commutative algebra of monoids
+### 5 Toric varieties
 
-## 7 The geometry of monoids
+## Part II The algebraic geometry of monoids
 
-## 8 F1-schemes and sheaves
+### 6 Commutative algebra of monoids
+
+### 7 The geometry of monoids
+
+### 8 F1-schemes and sheaves
 
 ## 9 Bibliography
 
