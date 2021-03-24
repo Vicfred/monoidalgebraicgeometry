@@ -4,23 +4,21 @@
 
 ## 1 Introduction
 
-## 2 Commutative algebra
+## 2 Commutative algebra and classic algebraic geometry
 
-## 3 Classic algebraic geometry
+## 3 Category theory
 
-## 4 Category theory
+## 4 Tropical geomtry
 
-## 5 Tropical geomtry
+## 5 Toric varieties
 
-## 6 Toric varieties
+## 6 Commutative algebra of monoids
 
-## 7 Commutative algebra of monoids
+## 7 The geometry of monoids
 
-## 8 The geometry of monoids
+## 8 F1-schemes and sheaves
 
-## 9 F1-schemes and sheaves
-
-## Bibliography
+## 9 Bibliography
 
 * [Chenghao Chu, Oliver Lorscheid, Rekha Santhanam - Sheaves and K-Theory of F1-Schemes](https://arxiv.org/abs/1010.2896)
 
