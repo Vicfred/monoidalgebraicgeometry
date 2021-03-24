@@ -22,7 +22,7 @@
 
 ### 8 F1-schemes and sheaves
 
-## 9 Bibliography
+## 9 References
 
 * [Chenghao Chu, Oliver Lorscheid, Rekha Santhanam - Sheaves and K-Theory of F1-Schemes](https://arxiv.org/abs/1010.2896)
 
