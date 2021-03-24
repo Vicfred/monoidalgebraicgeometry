@@ -4,9 +4,9 @@
 
 ## 1 Introduction
 
-## 2 Commutative algebra and classic algebraic geometry
+## 2 Category theory
 
-## 3 Category theory
+## 3 Commutative algebra and classic algebraic geometry
 
 ## 4 Tropical geomtry
 
