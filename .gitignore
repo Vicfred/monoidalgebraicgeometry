@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Except these.
+
+!tex/
+!figs/
+
+!*.tex
+!*.md
+
+!.gitignore
+!LICENSE
