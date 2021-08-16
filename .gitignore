@@ -7,6 +7,7 @@
 !figs/
 
 !*.tex
+!Makefile
 !*.md
 
 !.gitignore
