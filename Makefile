@@ -13,10 +13,10 @@ figs:
 doc: $(DOC:.tex=.pdf)
 
 %.pdf: %.tex
-	pdflatex $<
-	@egrep -q $(RERUNBIB) $*.log && bibtex $* && pdflatex $<; true
-	@egrep -q $(RERUN) $*.log && pdflatex $<; true
-	@egrep -q $(RERUN) $*.log && pdflatex $<; true
+	lualatex $<
+	@egrep -q $(RERUNBIB) $*.log && bibtex $* && lualatex $<; true
+	@egrep -q $(RERUN) $*.log && lualatex $<; true
+	@egrep -q $(RERUN) $*.log && lualatex $<; true
 
 latexmk:
 	-latexmk -pvc -pdf $(DOC)
